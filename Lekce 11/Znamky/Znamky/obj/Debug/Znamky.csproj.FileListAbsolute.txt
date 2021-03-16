@@ -1,0 +1,9 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Znamky\Znamky\bin\Debug\Znamky.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Znamky\Znamky\bin\Debug\Znamky.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Znamky\Znamky\bin\Debug\Znamky.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Znamky\Znamky\obj\Debug\Znamky.csprojResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Znamky\Znamky\obj\Debug\Znamky.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Znamky\Znamky\obj\Debug\Znamky.pdb
+C:\Users\David\Desktop\fls\Znamky\Znamky\bin\Debug\Znamky.exe.config
+C:\Users\David\Desktop\fls\Znamky\Znamky\obj\Debug\Znamky.exe
+C:\Users\David\Desktop\fls\Znamky\Znamky\obj\Debug\Znamky.pdb

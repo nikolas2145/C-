@@ -1,0 +1,9 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Zelenina\Zelenina\bin\Debug\Zelenina.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Zelenina\Zelenina\bin\Debug\Zelenina.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Zelenina\Zelenina\bin\Debug\Zelenina.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Zelenina\Zelenina\obj\Debug\Zelenina.csprojResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Zelenina\Zelenina\obj\Debug\Zelenina.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Zelenina\Zelenina\obj\Debug\Zelenina.pdb
+C:\Users\David\Desktop\fls\Zelenina\Zelenina\bin\Debug\Zelenina.exe.config
+C:\Users\David\Desktop\fls\Zelenina\Zelenina\obj\Debug\Zelenina.exe
+C:\Users\David\Desktop\fls\Zelenina\Zelenina\obj\Debug\Zelenina.pdb

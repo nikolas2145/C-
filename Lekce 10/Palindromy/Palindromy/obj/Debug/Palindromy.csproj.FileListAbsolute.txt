@@ -1,0 +1,8 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\Palindromy\Palindromy\bin\Debug\Palindromy.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\Palindromy\Palindromy\bin\Debug\Palindromy.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\Palindromy\Palindromy\bin\Debug\Palindromy.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\Palindromy\Palindromy\obj\Debug\Palindromy.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\Palindromy\Palindromy\obj\Debug\Palindromy.pdb
+C:\Users\David\Desktop\fls\Palindromy\Palindromy\bin\Debug\Palindromy.exe.config
+C:\Users\David\Desktop\fls\Palindromy\Palindromy\obj\Debug\Palindromy.exe
+C:\Users\David\Desktop\fls\Palindromy\Palindromy\obj\Debug\Palindromy.pdb

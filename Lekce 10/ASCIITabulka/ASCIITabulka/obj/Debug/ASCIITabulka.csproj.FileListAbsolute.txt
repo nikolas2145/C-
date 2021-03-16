@@ -1,0 +1,9 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\ASCIITabulka\ASCIITabulka\bin\Debug\ASCIITabulka.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\ASCIITabulka\ASCIITabulka\bin\Debug\ASCIITabulka.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\ASCIITabulka\ASCIITabulka\bin\Debug\ASCIITabulka.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\ASCIITabulka\ASCIITabulka\obj\Debug\ASCIITabulka.csprojResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\ASCIITabulka\ASCIITabulka\obj\Debug\ASCIITabulka.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\ASCIITabulka\ASCIITabulka\obj\Debug\ASCIITabulka.pdb
+C:\Users\David\Desktop\fls\ASCIITabulka\ASCIITabulka\bin\Debug\ASCIITabulka.exe.config
+C:\Users\David\Desktop\fls\ASCIITabulka\ASCIITabulka\obj\Debug\ASCIITabulka.exe
+C:\Users\David\Desktop\fls\ASCIITabulka\ASCIITabulka\obj\Debug\ASCIITabulka.pdb

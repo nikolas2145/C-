@@ -1,0 +1,9 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Rozveselovac\Rozveselovac\bin\Debug\Rozveselovac.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Rozveselovac\Rozveselovac\bin\Debug\Rozveselovac.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Rozveselovac\Rozveselovac\bin\Debug\Rozveselovac.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Rozveselovac\Rozveselovac\obj\Debug\Rozveselovac.csprojResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Rozveselovac\Rozveselovac\obj\Debug\Rozveselovac.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Rozveselovac\Rozveselovac\obj\Debug\Rozveselovac.pdb
+C:\Users\David\Desktop\fls\Rozveselovac\Rozveselovac\bin\Debug\Rozveselovac.exe.config
+C:\Users\David\Desktop\fls\Rozveselovac\Rozveselovac\obj\Debug\Rozveselovac.exe
+C:\Users\David\Desktop\fls\Rozveselovac\Rozveselovac\obj\Debug\Rozveselovac.pdb

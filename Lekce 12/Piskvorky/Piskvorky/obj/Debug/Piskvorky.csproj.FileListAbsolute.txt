@@ -1,0 +1,12 @@
+c:\users\david\documents\visual studio 2013\Projects\Piskvorky\Piskvorky\bin\Debug\Piskvorky.exe.config
+c:\users\david\documents\visual studio 2013\Projects\Piskvorky\Piskvorky\bin\Debug\Piskvorky.exe
+c:\users\david\documents\visual studio 2013\Projects\Piskvorky\Piskvorky\bin\Debug\Piskvorky.pdb
+c:\users\david\documents\visual studio 2013\Projects\Piskvorky\Piskvorky\obj\Debug\Piskvorky.exe
+c:\users\david\documents\visual studio 2013\Projects\Piskvorky\Piskvorky\obj\Debug\Piskvorky.pdb
+c:\users\david\documents\visual studio 2013\Projects\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csprojResolveAssemblyReference.cache
+D:\Downloads\c_sharp_cviceni12\Piskvorky\Piskvorky\bin\Debug\Piskvorky.exe.config
+D:\Downloads\c_sharp_cviceni12\Piskvorky\Piskvorky\obj\Debug\Piskvorky.exe
+D:\Downloads\c_sharp_cviceni12\Piskvorky\Piskvorky\obj\Debug\Piskvorky.pdb
+D:\Downloads\c_sharp_cviceni12\Piskvorky\Piskvorky\bin\Debug\Piskvorky.exe
+D:\Downloads\c_sharp_cviceni12\Piskvorky\Piskvorky\bin\Debug\Piskvorky.pdb
+D:\Downloads\c_sharp_cviceni12\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csprojResolveAssemblyReference.cache

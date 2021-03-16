@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2013\Projects\Sachovnice\Sachovnice\bin\Debug\Sachovnice.exe.config
+c:\users\david\documents\visual studio 2013\Projects\Sachovnice\Sachovnice\bin\Debug\Sachovnice.exe
+c:\users\david\documents\visual studio 2013\Projects\Sachovnice\Sachovnice\bin\Debug\Sachovnice.pdb
+c:\users\david\documents\visual studio 2013\Projects\Sachovnice\Sachovnice\obj\Debug\Sachovnice.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\Sachovnice\Sachovnice\obj\Debug\Sachovnice.exe
+c:\users\david\documents\visual studio 2013\Projects\Sachovnice\Sachovnice\obj\Debug\Sachovnice.pdb

@@ -1,0 +1,12 @@
+c:\users\david\documents\visual studio 2013\Projects\Sinus\Sinus\bin\Debug\Sinus.exe.config
+c:\users\david\documents\visual studio 2013\Projects\Sinus\Sinus\bin\Debug\Sinus.exe
+c:\users\david\documents\visual studio 2013\Projects\Sinus\Sinus\bin\Debug\Sinus.pdb
+c:\users\david\documents\visual studio 2013\Projects\Sinus\Sinus\obj\Debug\Sinus.exe
+c:\users\david\documents\visual studio 2013\Projects\Sinus\Sinus\obj\Debug\Sinus.pdb
+C:\Users\David\Desktop\c_sharp_cviceni12\Sinus\Sinus\bin\Debug\Sinus.exe.config
+C:\Users\David\Desktop\c_sharp_cviceni12\Sinus\Sinus\bin\Debug\Sinus.exe
+C:\Users\David\Desktop\c_sharp_cviceni12\Sinus\Sinus\bin\Debug\Sinus.pdb
+C:\Users\David\Desktop\c_sharp_cviceni12\Sinus\Sinus\obj\Debug\Sinus.csprojAssemblyReference.cache
+C:\Users\David\Desktop\c_sharp_cviceni12\Sinus\Sinus\obj\Debug\Sinus.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\c_sharp_cviceni12\Sinus\Sinus\obj\Debug\Sinus.exe
+C:\Users\David\Desktop\c_sharp_cviceni12\Sinus\Sinus\obj\Debug\Sinus.pdb

@@ -1,0 +1,9 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\VigenerovaSifra\VigenerovaSifra\bin\Debug\VigenerovaSifra.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\VigenerovaSifra\VigenerovaSifra\obj\Debug\VigenerovaSifra.csprojResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\VigenerovaSifra\VigenerovaSifra\bin\Debug\VigenerovaSifra.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\VigenerovaSifra\VigenerovaSifra\bin\Debug\VigenerovaSifra.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\VigenerovaSifra\VigenerovaSifra\obj\Debug\VigenerovaSifra.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\9 - Textové řetězce podruhé\VigenerovaSifra\VigenerovaSifra\obj\Debug\VigenerovaSifra.pdb
+C:\Users\David\Desktop\fls\VigenerovaSifra\VigenerovaSifra\bin\Debug\VigenerovaSifra.exe.config
+C:\Users\David\Desktop\fls\VigenerovaSifra\VigenerovaSifra\obj\Debug\VigenerovaSifra.exe
+C:\Users\David\Desktop\fls\VigenerovaSifra\VigenerovaSifra\obj\Debug\VigenerovaSifra.pdb

@@ -1,0 +1,9 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Morzeovka\Morzeovka\bin\Debug\Morzeovka.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Morzeovka\Morzeovka\bin\Debug\Morzeovka.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Morzeovka\Morzeovka\bin\Debug\Morzeovka.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Morzeovka\Morzeovka\obj\Debug\Morzeovka.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Morzeovka\Morzeovka\obj\Debug\Morzeovka.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\10 - Split a Join\Morzeovka\Morzeovka\obj\Debug\Morzeovka.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\fls\Morzeovka\Morzeovka\bin\Debug\Morzeovka.exe.config
+C:\Users\David\Desktop\fls\Morzeovka\Morzeovka\obj\Debug\Morzeovka.exe
+C:\Users\David\Desktop\fls\Morzeovka\Morzeovka\obj\Debug\Morzeovka.pdb

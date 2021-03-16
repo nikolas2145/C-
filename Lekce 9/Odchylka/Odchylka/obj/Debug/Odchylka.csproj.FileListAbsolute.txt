@@ -1,0 +1,9 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Odchylka\Odchylka\bin\Debug\Odchylka.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Odchylka\Odchylka\bin\Debug\Odchylka.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Odchylka\Odchylka\bin\Debug\Odchylka.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Odchylka\Odchylka\obj\Debug\Odchylka.csprojResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Odchylka\Odchylka\obj\Debug\Odchylka.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\1 - zaklady\8 - Pole\Odchylka\Odchylka\obj\Debug\Odchylka.pdb
+C:\Users\David\Desktop\fls\Odchylka\Odchylka\bin\Debug\Odchylka.exe.config
+C:\Users\David\Desktop\fls\Odchylka\Odchylka\obj\Debug\Odchylka.exe
+C:\Users\David\Desktop\fls\Odchylka\Odchylka\obj\Debug\Odchylka.pdb
